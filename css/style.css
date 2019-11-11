@@ -4,7 +4,7 @@ html {
 
 body {
   line-height: 1.7;
-  color: #666666;
+  color: #808080;
   font-weight: 400;
   font-size: 1rem; }
 
@@ -391,7 +391,7 @@ body:after {
   right: 0;
   z-index: 2000;
   padding-top: 20px;
-  background: #fff;
+  background: #808080;
   height: calc(100vh);
   -webkit-transform: translateX(110%);
   -ms-transform: translateX(110%);
