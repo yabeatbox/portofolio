@@ -794,21 +794,7 @@ body:after {
     font-size: 1rem;
     color: rgba(255, 255, 255, 0.5); }
 
-.slide-one-item .owl-dots {
-  text-align: center; }
-  .slide-one-item .owl-dots .owl-dot {
-    display: inline-block; }
-    .slide-one-item .owl-dots .owl-dot > span {
-      margin: 7px;
-      background: rgba(255, 255, 255, 0.3);
-      display: inline-block;
-      width: 7px;
-      height: 7px;
-      border-radius: 50%; }
-    .slide-one-item .owl-dots .owl-dot:hover > span {
-      background: rgba(255, 255, 255, 0.5); }
-    .slide-one-item .owl-dots .owl-dot.active > span {
-      background: #fff; }
+
 
 .blog_entry img {
   border-top-left-radius: 4px;
